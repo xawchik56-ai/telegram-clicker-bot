@@ -1,17 +1,17 @@
 {
   "1700577291": {
-    "coins": 10,
+    "coins": 276,
     "power": 2,
     "auto": 0,
-    "lvl": 2,
-    "xp": 78,
-    "clicks": 60,
+    "lvl": 3,
+    "xp": 128,
+    "clicks": 93,
     "autolvl": 0,
     "ups": {
       "better": true
     },
     "coll": [],
-    "daily": 0,
+    "daily": 1779633398.9903307,
     "msgid": 282
   }
 }
